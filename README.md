@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/DhikaPradanaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%2F+Next.js+Enthusiast+%E2%9A%9B%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1;Building+cool+stuff+every+day+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=9220F7&center=true&vCenter=true&random=true&width=435&lines=Dhika+Pradana;Universitas+Udayana;Teknologi+Informasi+" alt="Typing SVG" />
 </a>
 
 <br/>
