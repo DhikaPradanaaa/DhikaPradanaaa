@@ -75,6 +75,7 @@
 <div align="center">
 
 <a href="https://github.com/DhikaPradanaaa/ThinkStep">
+  <img src="./assets/atoga2.gif" width="200" alt="atoga gif"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhikaPradanaaa&repo=ThinkStep&theme=tokyonight&border_radius=10" alt="Project 1"/>
 </a>
 
