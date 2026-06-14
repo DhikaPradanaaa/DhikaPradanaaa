@@ -1,5 +1,7 @@
-<div align="center">
 
+
+<div align="center">
+<img src="https://media1.tenor.com/m/xLmV-iQhJN8AAAAC/lookism.gif" width="200" alt="Lookism GIF"/>
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Dhika%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20%7C%20Create%20%7C%20Innovate&descAlignY=60&descSize=16" />
 
